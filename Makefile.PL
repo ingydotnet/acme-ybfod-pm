@@ -7,4 +7,6 @@ all_from 'lib/YourBrainForOnceDude.pod';
 
 requires 'Acme::Buffy' => 1.5;
 
+clean_files 'MANIFEST';
+
 WriteMakefile;
