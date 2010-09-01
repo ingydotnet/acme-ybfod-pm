@@ -1,3 +1,28 @@
-use YourBrainForOnceDude;
+NAME
+    YourBrainForOnceDude - Just use it!
 
-NOTE: You should use 'perl Makefile.YBFOD' to install this module properly.
+SYNOPSIS
+        use YourBrainForOnceDude;
+
+DESCRIPTION
+    Just use it!
+
+IMPORTANT NOTES
+    This is the first module to ever require Acme::Buffy.
+
+    This is probably the first module ever uploaded to CPAN over a wireless
+    network in a London pub. Cheers!
+
+AUTHOR
+    Ingy döt Net <ingy@cpan.org>
+
+COPYRIGHT
+    Copyright (c) 2010. Ingy döt Net. All rights reserved.
+
+    Copyright (c) 2001. Brian Ingerson. All rights reserved.
+
+    This program is free software; you can redistribute it and/or modify it
+    under the same terms as Perl itself.
+
+    See http://www.perl.com/perl/misc/Artistic.html
+

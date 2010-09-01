@@ -1,8 +1,19 @@
 Revision history for Perl extension YourBrainForOnceDude.
 
-0.11  Tue Aug 21 00:09:01 PDT 2001
-	- Added more bRAiN's
-	- Old MacDonald had a farm
-
-0.10  Sat Aug 11 14:17:56 2001
-	- First version to CPAN
+---
+version: 0.12
+date:    Wed Sep  1 07:10:35 PDT 2010
+changes:
+- Keep up to date with Acme::Buffy. Some changes from 2007 broke
+  YourBrainForOnceDude. You should wear a helmet.
+---
+version: 0.11
+date:   Tue Aug 21 00:09:01 PDT 2001
+changes:
+- Added more bRAiN's
+- Old MacDonald had a farm
+---
+version: 0.10
+date:    Sat Aug 11 14:17:56 2001
+changes:
+- First version to CPAN

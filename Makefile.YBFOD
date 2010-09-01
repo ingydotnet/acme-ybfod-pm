@@ -1,7 +1,0 @@
-use ExtUtils::MakeMaker;
-
-WriteMakefile(
-    'NAME'		=> 'YourBrainForOnceDude',
-    'VERSION_FROM'	=> 'YourBrainForOnceDude.pm',
-    'PREREQ_PM'		=> {Acme::Buffy => 1.2},
-);

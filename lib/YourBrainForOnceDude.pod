@@ -1,3 +1,5 @@
+=encoding utf8
+
 =head1 NAME
 
 YourBrainForOnceDude - Just use it!
@@ -10,10 +12,6 @@ YourBrainForOnceDude - Just use it!
 
 Just use it!
 
-=head1 INSTALLATION
-
-You should use 'perl Makefile.YBFOD' instead of 'perl Makefile.PL' to install this module properly.
-
 =head1 IMPORTANT NOTES
 
 This is the first module to ever require Acme::Buffy.
@@ -22,9 +20,11 @@ This is probably the first module ever uploaded to CPAN over a wireless network 
 
 =head1 AUTHOR
 
-Brian Ingerson <ingy@cpan.org>
+Ingy döt Net <ingy@cpan.org>
 
 =head1 COPYRIGHT
+
+Copyright (c) 2010. Ingy döt Net. All rights reserved.
 
 Copyright (c) 2001. Brian Ingerson. All rights reserved.
 
