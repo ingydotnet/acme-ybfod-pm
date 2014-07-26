@@ -1,6 +1,5 @@
 package YourBrainForOnceDude;
-use 5.008003;
-our $VERSION = '0.12';
+our $VERSION = '0.13';
 require Acme::Buffy;
 INIT {
     local $/; my @magic = qw(-11 3 5 -3 11);

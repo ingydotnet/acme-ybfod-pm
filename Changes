@@ -1,5 +1,8 @@
-Revision history for Perl extension YourBrainForOnceDude.
-
+---
+version: 0.13
+date:    Fri Jul 25 22:20:46 PDT 2014
+changes:
+- Zilla-Dist YourBrainForOnceDude!
 ---
 version: 0.12
 date:    Wed Sep  1 07:10:35 PDT 2010
