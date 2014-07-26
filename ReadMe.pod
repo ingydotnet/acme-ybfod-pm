@@ -10,6 +10,10 @@ See http://github.com/ingydotnet/swim-pm#readme
 
 YourBrainForOnceDude - Just use it!
 
+=for html
+<a href="https://travis-ci.org/ingydotnet/acme-ybfod-pm"><img src="https://travis-ci.org/ingydotnet/acme-ybfod-pm.png" alt="acme-ybfod-pm"></a>
+<a href="https://coveralls.io/r/ingydotnet/acme-ybfod-pm?branch=master"><img src="https://coveralls.io/repos/ingydotnet/acme-ybfod-pm/badge.png" alt="acme-ybfod-pm"></a>
+
 =head1 SYNOPSIS
 
     use YourBrainForOnceDude;

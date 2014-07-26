@@ -3,6 +3,8 @@ YourBrainForOnceDude
 
 Just use it!
 
+<badge travis coveralls ingydotnet/acme-ybfod-pm>
+
 = Synopsis
 
   use YourBrainForOnceDude;
