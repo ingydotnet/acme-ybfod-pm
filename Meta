@@ -1,7 +1,7 @@
 =meta: 0.0.1
 
 name: Acme-YBFOD
-version: 0.15
+version: 0.16
 abstract: YourBrainForOnceDude - Just use it!
 homepage: https://metacpan.org/release/Acme-YBFOD
 
@@ -22,11 +22,11 @@ requires:
 devel:
   git: https://github.com/ingydotnet/acme-ybfod-pm
   bug: https://github.com/ingydotnet/acme-ybfod-pm/issues
-  irc: irc.freenode.net#ingy
+  irc: irc.freenode.net#pkg
 
 =cpan:
   libname: YourBrainForOnceDude
 
 =travis:
   type: perl
-  irc: irc.freenode.net#ingy
+  irc: irc.freenode.net#pkg
