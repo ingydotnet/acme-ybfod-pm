@@ -1,12 +1,13 @@
-=meta: 0.0.1
+=meta: 0.0.2
 
 name: Acme-YBFOD
-version: 0.17
+version: 0.18
 abstract: YourBrainForOnceDude - Just use it!
 homepage: https://metacpan.org/release/Acme-YBFOD
-
+language: perl
 license: perl
-copyright: 2001-2014. Ingy döt Net.
+copyright: 2001-2014
+
 author:
   name: Ingy döt Net
   email: ingy@cpan.org
@@ -15,18 +16,14 @@ author:
   freenode: ingy
   homepage: http://ingy.net
 
-requires:
-  perl: 5.8.1
-  Acme::Buffy: 1.5
-
 devel:
   git: https://github.com/ingydotnet/acme-ybfod-pm
   bug: https://github.com/ingydotnet/acme-ybfod-pm/issues
   irc: irc.freenode.net#pkg
 
-=cpan:
-  libname: YourBrainForOnceDude
+requires:
+  perl: 5.8.1
+  Acme::Buffy: 1.5
 
-=travis:
-  type: perl
-  irc: irc.freenode.net#pkg
+=zild:
+  libname: YourBrainForOnceDude
